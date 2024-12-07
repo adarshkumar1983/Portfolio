@@ -29,10 +29,10 @@ export function Title() {
       </h1> */}
 
       {/* Or use a logo */}
-      <h1 className="text-nowrap text-center text-48-96 font-bold">
+      {/* <h1 className="text-nowrap text-center text-48-96 font-bold">
         {title.plainText}
         <Logo className="m-auto w-full max-w-[600px]" glow />
-      </h1>
+      </h1> */}
       <div className="mb-8 text-center text-xl font-light text-muted-foreground">
         {parseForHighlightedWords(title.subTitle)}
       </div>
