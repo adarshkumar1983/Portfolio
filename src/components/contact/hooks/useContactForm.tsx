@@ -27,8 +27,8 @@ const useContactForm = () => {
   const { register, handleSubmit, watch, reset, formState } = useForm<FormData>(
     {
       defaultValues: {
-        name: "Adarsh kumar",
-        email: "adarshrajput1914@gmail.com",
+        name: "",
+        email: "",
       },
       resolver: zodResolver(formData),
     },
