@@ -36,10 +36,7 @@ export const timelineData: TimelineEntry[] = [
         title: "",
         text: `Security and privacy are crucial in any educational tool. The learning tool uses advanced security measures, including encryption and secure logins, to protect personal and progress data. This ensures that learners can focus on their education without concerns about data compromise, offering a secure and efficient learning experience.`,
       },
-      c:{
-        title: "",
-        text: ``
-      },
+      
     },
   },
   {
@@ -71,11 +68,6 @@ export const timelineData: TimelineEntry[] = [
       b: {
         title: "",
         text: `Timers are integrated to track work sessions, allowing users to start, pause, and stop sessions easily. The application then records these intervals, providing detailed analysis through a comprehensive dashboard. This dashboard displays various productivity metrics, helping users identify time management patterns, optimize workflows, and improve overall efficiency. The combination of these technologies ensures a seamless experience for both tracking and analyzing time spent on tasks, leading to better time management and enhanced productivity.`,
-      },
-      
-      c:{
-        title: "",
-        text: ``
       },
     },
   },
@@ -110,11 +102,6 @@ export const timelineData: TimelineEntry[] = [
         title: "",
         text: `The Home-Maid Application is an intuitive tool designed to help households manage the cleaning and maintenance of home appliances, primarily focusing on fans. It enables users to organize their spaces by adding distinct fans in various rooms, schedule cleaning or maintenance tasks, and track their history effortlessly. The application ensures timely servicing with features like unique naming for fans, cleaning status updates, and reminders for scheduled tasks. Users can create an account, log in, and easily navigate through functionalities such as adding rooms, assigning fans, scheduling tasks, and marking them as completed. With a simple interface and efficient tracking, the application ensures that all maintenance activities are handled systematically, promoting better cleanliness and organization at home.`,
       },
-      
-      c:{
-        title: "",
-        text: ``
-      },
     },
   },
   {
@@ -147,10 +134,6 @@ export const timelineData: TimelineEntry[] = [
       b: {
         title: "",
         text: `Firebase is at the core of this application, providing services like Firebase Authentication for secure user login and registration, Cloud Firestore for real-time database storage of user data and content details, and Firebase Storage for hosting any media or images used in the app. The front end is developed using React.js, ensuring a dynamic and responsive user interface, while Firebase Hosting simplifies the deployment process. By integrating Firebase, the Netflix Clone offers seamless synchronization of data, enhanced security, and scalable architecture, making it a powerful demonstration of full-stack application development.`,
-      },
-      c:{
-        title: "",
-        text: ``
       },
     },
   }

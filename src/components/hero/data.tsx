@@ -25,7 +25,7 @@ export const profileCard = {
   tooltip: {
     imagePath: "https://avatars.githubusercontent.com/u/108082430?s=400&u=5b466ae3502348ed129fc311a2e5d8be1f8913c0&v=4",
     title: "Hey...",
-    subTitle: "That's me! ",
+    subTitle: "That's me!",
   },
 };
 

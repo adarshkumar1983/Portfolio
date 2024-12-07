@@ -26,7 +26,7 @@ export type TimelineEntry = {
   title: string;
   description: string;
   tech: string[];
-  cards: { a: Card; b: Card,c:Card };
+  cards: { a: Card; b: Card };
   imageUrl?: string;
   videoUrl?: string;
   projectUrls?: ProjectUrls;
