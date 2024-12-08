@@ -79,8 +79,8 @@ export const timelineData: TimelineEntry[] = [
         icon: <RiExternalLinkLine size={25} />,
       },
       repo: {
-        name: "nextMotion",
-        owner: "yoyocharlie",
+        name: "",
+        owner: "",
         showStarCount: false,
       },
     },
